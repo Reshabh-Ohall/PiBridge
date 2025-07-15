@@ -38,6 +38,23 @@ PiBridge/ ├── docs/                     # Budget, pitch materials ├─�
 - Soldering kit and basic electronics
 - Laser cutter or 3D printer for case
 
+
+## 🧾 Bill of Materials (BOM)
+
+| Item                                | Qty | Approx. Price (INR) | Purpose                                  |
+|-------------------------------------|-----|----------------------|------------------------------------------|
+| Raspberry Pi 5 (8 GB)               | 1   | ₹8,300               | Main board and controller                |
+| NVMe SSD (500 GB)                   | 1   | ₹2,500               | OS + storage                             |
+| PCIe Riser + Adapter + Regulator    | 1   | ₹2,000               | PCIe interface breakout                  |
+| Soldering Kit                       | 1   | ₹1,200               | Assembly and prototyping                 |
+| Basic Electronics (caps, resistors) | 1   | ₹800                 | Supporting electronics for board         |
+| Laser-cut Acrylic Sheets            | 1   | ₹1,000               | Mounts, shielding, and structural panels |
+| General Plastic (ABS/PETG)          | 1   | ₹1,000               | Custom enclosure                         |
+| Fans, standoffs, thermal pads       | 1   | ₹1,500               | Cooling and support                      |
+| Buffer for Testing + Damage         | —   | ₹4,500               | Extra safety & replacement parts         |
+| **Total**                           | —   | **₹25,000**          |                                          |
+
+
 ---
 
 ## 📜 License
