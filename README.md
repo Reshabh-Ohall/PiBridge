@@ -11,13 +11,7 @@
 - Connect external graphics cards for gaming or ML workloads
 - Laser-cut case design and modular enclosure
 - Budget under ₹25,000 (~$300)
-
----
-
-## 📁 Project Structure
-
-PiBridge/ ├── docs/                     # Budget, pitch materials ├── hardware/                 # Schematics, board layout, BOM ├── software/                 # Control and interface software ├── case-design/              # STL and DXF models for enclosure ├── images/                   # Logos, renders, wiring photos
-
+- 
 ---
 
 ## 🛠️ Use Cases
