@@ -4,6 +4,17 @@
 
 ---
 
+## Table of Contents
+
+- [Key Features](#keyfeatures)
+- [Use Cases](#usecases)
+- [Build Requirements](#BuildRequirements)
+- [Bill of Materials (BOM)](#BillofMaterials(BOM))
+- [License](#license)
+- [Author](#author)
+
+---
+
 ## 🔧 Key Features
 
 - PCIe Gen 2.0 x1 lane breakout for NVMe, GPU, or CPU modules
@@ -11,7 +22,7 @@
 - Connect external graphics cards for gaming or ML workloads
 - Laser-cut case design and modular enclosure
 - Budget under ₹25,000 (~$300)
-- 
+
 ---
 
 ## 🛠️ Use Cases
