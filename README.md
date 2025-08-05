@@ -6,12 +6,12 @@
 
 ## Table of Contents
 
-- [Key Features](#keyfeatures)
-- [Use Cases](#usecases)
-- [Build Requirements](#BuildRequirements)
-- [Bill of Materials (BOM)](#BillofMaterials(BOM))
-- [License](#license)
-- [Author](#author)
+- [Key Features](https://github.com/Reshabh-Ohall/PiBridge?tab=readme-ov-file#-key-features)
+- [Use Cases](https://github.com/Reshabh-Ohall/PiBridge?tab=readme-ov-file#%EF%B8%8F-use-cases)
+- [Build Requirements](https://github.com/Reshabh-Ohall/PiBridge?tab=readme-ov-file#-build-requirements)
+- [Bill of Materials (BOM)](https://github.com/Reshabh-Ohall/PiBridge?tab=readme-ov-file#-bill-of-materials-bom)
+- [License](https://github.com/Reshabh-Ohall/PiBridge?tab=readme-ov-file#-license)
+- [Author](https://github.com/Reshabh-Ohall/PiBridge?tab=readme-ov-file#%EF%B8%8F-author)
 
 ---
 
