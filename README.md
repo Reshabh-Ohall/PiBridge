@@ -6,12 +6,12 @@
 
 ## Table of Contents
 
-- [Key Features](#keyfeatures)
-- [Use Cases](#usecases)
-- [Build Requirements](#BuildRequirements)
-- [Bill of Materials (BOM)](#BillofMaterials(BOM))
-- [License](#license)
-- [Author](#author)
+- [Key Features](#-key-features)
+- [Use Cases](#-use-cases)
+- [Build Requirements](#-build-requirements)
+- [Bill of Materials (BOM)](#-bill-of-materials-bom)
+- [License](#-license)
+- [Author](#-author)
 
 ---
 
